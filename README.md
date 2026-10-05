@@ -1,16 +1,270 @@
-## Hi, I'm Misagh 👾
+# Hi, I'm Misagh 👾
 
-<!--
-**Misagh-Makaremi/Misagh-Makaremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Statistics graduate focused on data science, machine learning, deep learning, and practical AI systems.
 
-Here are some ideas to get you started:
+My academic and personal projects cover statistical modeling, numerical methods, data mining, computer vision, and machine learning. I enjoy turning theoretical concepts into reproducible experiments, practical applications, and interactive tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Data science and statistical learning
+- Machine learning and deep learning
+- Computer vision and image classification
+- Data analysis and visualization
+- Local AI systems and LLM applications
+- GPU-accelerated experimentation
+- Reproducible ML environments with Linux and Docker
+
+## Technical Skills
+
+### Programming and Data Science
+
+- Python
+- R
+- SQL
+- Jupyter Notebook
+- NumPy
+- pandas
+- SciPy
+- Matplotlib
+- Seaborn
+
+### Machine Learning
+
+- Linear and nonlinear regression
+- Data mining
+- Support Vector Machines
+- Principal Component Analysis
+- Singular Value Decomposition
+- Multivariate statistical methods
+- Model evaluation and comparison
+- Feature engineering
+
+### Deep Learning and Computer Vision
+
+- Convolutional Neural Networks
+- Image classification
+- Transfer learning
+- Fine-tuning
+- PyTorch
+- ResNet architectures
+- Model comparison and evaluation
+- Gradio-based machine learning applications
+
+### Databases and Infrastructure
+
+- SQL
+- Linux
+- Docker
+- GPU-based development environments
+- Local model execution
+- AI and LLM experimentation
+
+## Selected Projects
+
+### Intel Image Classification: CNN vs. ResNet18
+
+A deep learning project for classifying landscape images using the Intel Image Classification dataset.
+
+The project includes:
+
+- Building a convolutional neural network from scratch
+- Fine-tuning a pretrained ResNet18 model
+- Comparing the performance of both approaches
+- Evaluating accuracy and other classification metrics
+- Creating an interactive Gradio web application
+- Testing and comparing the trained models through a simple user interface
+
+[View project →](LINK_TO_REPOSITORY)
+
+### Urban Air Quality and Weather Data Analysis
+
+A data mining and data analysis project based on urban air quality and weather data.
+
+The project focused on:
+
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- Feature analysis
+- Statistical and machine learning methods
+- Model evaluation
+- Extracting meaningful insights from environmental data
+
+🏆 Achieved first place in the related data mining and data analysis competition.
+
+[View project →](LINK_TO_REPOSITORY)
+
+### Statistical Modeling with Python
+
+A collection of academic projects covering linear and nonlinear regression, statistical modeling, and model evaluation.
+
+Topics include:
+
+- Linear regression
+- Nonlinear regression
+- Parameter estimation
+- Model diagnostics
+- Visualization of fitted models
+- Comparison of statistical approaches
+
+[View project →](LINK_TO_REPOSITORY)
+
+### Numerical Methods and Simulation with R
+
+A collection of projects focused on numerical methods, computational statistics, and simulation using R.
+
+Topics include:
+
+- Numerical approximation
+- Simulation techniques
+- Computational experiments
+- Visualization of numerical results
+- Statistical interpretation of simulations
+
+[View project →](LINK_TO_REPOSITORY)
+
+### Data Mining with Python
+
+A collection of data mining experiments implemented in Python and Jupyter Notebook.
+
+Topics include:
+
+- Data preprocessing
+- Exploratory data analysis
+- Feature selection
+- Dimensionality reduction
+- Classification
+- Clustering
+- Model evaluation
+
+[View project →](LINK_TO_REPOSITORY)
+
+### Linear Algebra with Python
+
+Python implementations and solutions for selected linear algebra problems.
+
+Topics include:
+
+- Matrix operations
+- Linear systems
+- Eigenvalues and eigenvectors
+- Matrix decomposition
+- Singular Value Decomposition
+- Computational solutions to linear algebra problems
+
+[View project →](LINK_TO_REPOSITORY)
+
+## Academic Background
+
+I hold a Bachelor's degree in Statistics.
+
+During my studies, I worked on projects involving:
+
+- Statistical modeling
+- Regression analysis
+- Numerical methods
+- Simulation
+- Data mining
+- Multivariate methods
+- Linear algebra
+- Principal Component Analysis
+- Support Vector Machines
+- Singular Value Decomposition
+
+## Certifications
+
+### IBM Data Science Professional Certificate
+
+Completed the IBM Data Science Professional Certificate on Coursera.
+
+The program included:
+
+- Python for Data Science, AI & Development
+- Databases and SQL for Data Science with Python
+- Data Visualization with Python
+- Data Analysis with Python
+- Machine Learning with Python
+
+[View certificate →](LINK_TO_CERTIFICATE)
+
+## Tools and Environments
+
+- Python
+- R
+- SQL
+- Jupyter Notebook
+- PyTorch
+- scikit-learn
+- pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Gradio
+- Linux
+- Docker
+- Git and GitHub
+- Local GPU environments
+- NVIDIA DGX Spark
+
+## Local AI and GPU Computing
+
+I am currently exploring local AI workflows using powerful GPU systems and NVIDIA DGX Spark environments.
+
+My planned areas of work include:
+
+- Running and evaluating local large language models
+- Building AI agents
+- GPU-accelerated machine learning experiments
+- Deploying local inference workflows
+- Developing reproducible AI environments with Linux and Docker
+- Exploring practical applications of local AI systems
+
+## Project Index
+
+### Statistics and Mathematical Computing
+
+- Statistical modeling with Python
+- Linear and nonlinear regression
+- Numerical methods with R
+- Simulation projects
+- Linear algebra with Python
+- PCA and SVD experiments
+
+### Machine Learning and Data Mining
+
+- Data mining projects
+- Classification experiments
+- Support Vector Machines
+- Feature engineering
+- Dimensionality reduction
+- Air quality and weather data analysis
+
+### Deep Learning and Computer Vision
+
+- CNN image classification
+- ResNet18 fine-tuning
+- Transfer learning experiments
+- Model comparison
+- Gradio-based inference applications
+
+### Local AI and Infrastructure
+
+- Local LLM experiments
+- AI agent projects
+- GPU-based model execution
+- Linux and Docker environments
+- Reproducible machine learning workflows
+
+## Goals
+
+- Build reproducible and well-documented machine learning projects
+- Develop practical computer vision applications
+- Explore local LLMs and AI agents
+- Improve my understanding of production-oriented data science workflows
+- Share useful experiments, implementations, and technical notes
+
+## Contact
+
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
+- Kaggle: [Your Kaggle URL]
+- ResearchGate: [Your ResearchGate URL]
