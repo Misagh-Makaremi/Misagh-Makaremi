@@ -1,6 +1,6 @@
 # Hi, I'm Misagh 👾
 
-Sci-Tech guy focused on data science, machine learning, deep learning, and practical AI systems.
+Sci-Tech guy focused on data science, image processing, deep learning, and practical AI systems.
 
 ## Current Focus
 
