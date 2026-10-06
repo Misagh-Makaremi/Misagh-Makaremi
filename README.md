@@ -151,39 +151,6 @@ Topics include:
 
 [View project →](LINK_TO_REPOSITORY)
 
-## Academic Background
-
-I hold a Bachelor's degree in Statistics.
-
-During my studies, I worked on projects involving:
-
-- Statistical modeling
-- Regression analysis
-- Numerical methods
-- Simulation
-- Data mining
-- Multivariate methods
-- Linear algebra
-- Principal Component Analysis
-- Support Vector Machines
-- Singular Value Decomposition
-
-## Certifications
-
-### IBM Data Science Professional Certificate
-
-Completed the IBM Data Science Professional Certificate on Coursera.
-
-The program included:
-
-- Python for Data Science, AI & Development
-- Databases and SQL for Data Science with Python
-- Data Visualization with Python
-- Data Analysis with Python
-- Machine Learning with Python
-
-[View certificate →](LINK_TO_CERTIFICATE)
-
 ## Tools and Environments
 
 - Python
@@ -252,13 +219,8 @@ My planned areas of work include:
 - Linux and Docker environments
 - Reproducible machine learning workflows
 
-## Goals
-
-- Build reproducible and well-documented machine learning projects
-- Develop practical computer vision applications
-- Explore local LLMs and AI agents
-- Improve my understanding of production-oriented data science workflows
-- Share useful experiments, implementations, and technical notes
+## My contents
+- YouTube
 
 ## Contact
 
