@@ -1,8 +1,6 @@
 # Hi, I'm Misagh 👾
 
-I am a Statistics graduate focused on data science, machine learning, deep learning, and practical AI systems.
-
-My academic and personal projects cover statistical modeling, numerical methods, data mining, computer vision, and machine learning. I enjoy turning theoretical concepts into reproducible experiments, practical applications, and interactive tools.
+Sci-Tech guy focused on data science, machine learning, deep learning, and practical AI systems.
 
 ## Current Focus
 
