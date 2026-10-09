@@ -4,10 +4,10 @@ Sci-Tech guy focused on data science, image processing, deep learning, and pract
 
 ## Technologies
 
-- *Programming:* Python, Jupyter Notebook, R, SQL
-- *Packages:* Pandas, NumPy, Matplotlib, PyTorch, Keras, TensorFlow
-- *Infrastructure:* MySQL, Docker, Linux
-- *Observability:* Power BI, Tableu, Gradio
+- **Programming:** Python, Jupyter Notebook, R, SQL
+- **Packages:** Pandas, NumPy, Matplotlib, PyTorch, Keras, TensorFlow
+- **Infrastructure:** MySQL, Docker, Linux
+- **Observability:** Power BI, Tableu, Gradio
 
 ## Technical Skills
 
