@@ -2,15 +2,12 @@
 
 Sci-Tech guy focused on data science, image processing, deep learning, and practical AI systems.
 
-## Current Focus
+## Technologies
 
-- Data science and statistical learning
-- Machine learning and deep learning
-- Computer vision and image classification
-- Data analysis and visualization
-- Local AI systems and LLM applications
-- GPU-accelerated experimentation
-- Reproducible ML environments with Linux and Docker
+- *Programming:* Python, Jupyter Notebook, R, SQL
+- *Packages:* Pandas, NumPy, Matplotlib, PyTorch, Keras, TensorFlow
+- *Infrastructure:* MySQL, Docker, Linux
+- *Observability:* Power BI, Tableu, Gradio
 
 ## Technical Skills
 
