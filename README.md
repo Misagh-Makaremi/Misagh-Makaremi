@@ -6,55 +6,15 @@ Sci-Tech guy focused on data science, image processing, deep learning, and pract
 
 - **Programming:** Python, Jupyter Notebook, R, SQL
 - **Packages:** Pandas, NumPy, Matplotlib, PyTorch, Keras, TensorFlow
-- **Infrastructure:** MySQL, Docker, Linux
-- **Observability:** Power BI, Tableu, Gradio
+- **Infrastructure:** MySQL, Git, Docker, Linux
+- **Observability:** Power BI, Tableau, Gradio
 
-## Technical Skills
+## Open-source highlights
 
-### Programming and Data Science
-
-- Python
+- Air Quality
 - R
-- SQL
-- Jupyter Notebook
-- NumPy
-- pandas
-- SciPy
-- Matplotlib
-- Seaborn
 
-### Machine Learning
-
-- Linear and nonlinear regression
-- Data mining
-- Support Vector Machines
-- Principal Component Analysis
-- Singular Value Decomposition
-- Multivariate statistical methods
-- Model evaluation and comparison
-- Feature engineering
-
-### Deep Learning and Computer Vision
-
-- Convolutional Neural Networks
-- Image classification
-- Transfer learning
-- Fine-tuning
-- PyTorch
-- ResNet architectures
-- Model comparison and evaluation
-- Gradio-based machine learning applications
-
-### Databases and Infrastructure
-
-- SQL
-- Linux
-- Docker
-- GPU-based development environments
-- Local model execution
-- AI and LLM experimentation
-
-## Selected Projects
+## Project Index
 
 ### Intel Image Classification: CNN vs. ResNet18
 
